@@ -1,0 +1,119 @@
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.vbproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.vbproj.GenerateResource.Cache
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterMenu.resources
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPegawai.resources
+C:\Users\dinda\Downloads\FormMenuUtama_Login\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPembeli.resources
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterMenu.resources
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPegawai.resources
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPembeli.resources
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormTransaksiPenjualan.resources
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\dinda\Downloads\Progres Disa\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.vbproj.GenerateResource.Cache
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterMenu.resources
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPegawai.resources
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPembeli.resources
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormTransaksiPenjualan.resources
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\Adhinda\Downloads\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.vbproj.GenerateResource.Cache
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterMenu.resources
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPegawai.resources
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPembeli.resources
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormTransaksiPenjualan.resources
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\dinda\Downloads\Progress Transaksi\pROGRES Laporan\pROGRES Laporan\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.vbproj.GenerateResource.Cache
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterMenu.resources
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPegawai.resources
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPembeli.resources
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormTransaksiPenjualan.resources
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\Adhinda\Downloads\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.vbproj.GenerateResource.Cache
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterMenu.resources
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPegawai.resources
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPembeli.resources
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormTransaksiPenjualan.resources
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\dinda\Downloads\Transaksi\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.vbproj.GenerateResource.Cache
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterMenu.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPegawai.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPembeli.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormTransaksiPenjualan.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.vbproj.GenerateResource.Cache
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\RdlCompile.cache
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\RdlCompile.compiled
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.vbprojResolveAssemblyReference.cache
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.RptLaporanTransaksi.resources

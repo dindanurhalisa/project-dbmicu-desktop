@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FormMenuUtama_Login
+</name>
+</assembly>
+<members>
+<member name="P:FormMenuUtama_Login.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FormMenuUtama_Login.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_detailtransaksiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_laporantransaksiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_menuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_pegawaiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_pembeliDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_transaksiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_detailtransaksiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_laporantransaksiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_menuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_pegawaiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_pembeliRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_transaksiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_detailtransaksiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_laporantransaksiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_menuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_pegawaiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_pembeliRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet.tbl_transaksiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.tbl_detailtransaksiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.tbl_laporantransaksiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.tbl_menuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.tbl_pegawaiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.tbl_pembeliTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.tbl_transaksiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(FormMenuUtama_Login.DB_MICUDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(FormMenuUtama_Login.DB_MICUDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(FormMenuUtama_Login.DB_MICUDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.TableAdapterManager.UpdateAll(FormMenuUtama_Login.DB_MICUDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:FormMenuUtama_Login.DB_MICUDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

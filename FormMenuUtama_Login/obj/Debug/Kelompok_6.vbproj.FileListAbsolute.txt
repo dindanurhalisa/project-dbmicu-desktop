@@ -1,0 +1,38 @@
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\Kelompok_6.vbprojResolveAssemblyReference.cache
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterMenu.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPegawai.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPembeli.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormTransaksiPenjualan.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.RptLaporanTransaksi.resources
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\Kelompok_6.vbproj.GenerateResource.Cache
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\RdlCompile.cache
+C:\Users\dinda\Downloads\Transaksi AKHRINYA BERHASIL\profresss trassakas\FormMenuUtama_Login\FormMenuUtama_Login\obj\Debug\RdlCompile.compiled
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe.config
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.exe
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.pdb
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\bin\Debug\FormMenuUtama_Login.xml
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\Kelompok_6.vbprojResolveAssemblyReference.cache
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterMenu.resources
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPegawai.resources
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMasterPembeli.resources
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormMenuUtama.resources
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormLogin.resources
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.FormTransaksiPenjualan.resources
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.Resources.resources
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\FormMenuUtama_Login.RptLaporanTransaksi.resources
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\Kelompok_6.vbproj.GenerateResource.Cache
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\RdlCompile.cache
+C:\Users\dinda\Downloads\Kelompok_6hh\profresss trassakas\Kelompok_6\FormMenuUtama_Login\obj\Debug\RdlCompile.compiled
